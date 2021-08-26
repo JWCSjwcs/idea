@@ -17,5 +17,7 @@ public class GitxuexiApplication {
         System.out.println("adad");
         System.out.println("c1");
 
+        System.out.println(".c2");
+        System.out.println("idea修改了代码");
     }
 }
