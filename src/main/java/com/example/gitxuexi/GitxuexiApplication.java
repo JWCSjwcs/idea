@@ -19,5 +19,8 @@ public class GitxuexiApplication {
 
         System.out.println(".c2");
         System.out.println("idea修改了代码");
+         System.out.println("---------1");
+         System.out.println("手动在GitHub修改了代码");
+        
     }
 }
